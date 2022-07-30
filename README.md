@@ -1,2 +1,2 @@
 # django-web
-intro to Django through GeekforGeeks course 
+intro to Django project
